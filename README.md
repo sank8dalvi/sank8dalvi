@@ -4,7 +4,7 @@
 - 💬 Ask me about web development, algorithms, JavaScript and Python.
 - 📫 Connect with me @ [Linkedin.com/sank8dalvi](https://www.linkedin.com/in/sank8dalvi/)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sank8dalvi&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide=stars" alt="Sanket Dalvi" />
+<img src="https://github-readme-stats.vercel.app/api?username=sank8dalvi&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true&hide=stars" alt="Sanket Dalvi" />
 
 
 
