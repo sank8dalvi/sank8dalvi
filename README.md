@@ -1,4 +1,4 @@
-### Hi there, I'm Sanket 👋
+### Hi there, I'm Sanket 
 
 
 - 💬 Ask me about web development, algorithms, JavaScript and Python.
